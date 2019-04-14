@@ -25,6 +25,7 @@ int main()
 
         if (value > largest)
         {
+            
             second_largest = largest;
             largest = value;
         }
